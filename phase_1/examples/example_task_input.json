@@ -3,7 +3,7 @@
   "population": "Adults with advanced or metastatic NSCLC",
   "line_of_therapy": "Second line and later",
   "geography": "United States",
-  "preferred_study_type": "microcosting analysis, HTA submissions, cost-effectiveness analyses, cost-analyis, or observational studies reporting 2L+ drug acquisition cost after discontinuation of 1L treatment"
+  "preferred_study_type": "microcosting analysis, HTA submissions, cost-effectiveness analyses, cost-analyis, or observational studies reporting 2L+ drug acquisition cost after discontinuation of 1L treatment",
   "exclusion_rules": [
     "Exclude small cell lung cancer",
     "Exclude non-English publications",
