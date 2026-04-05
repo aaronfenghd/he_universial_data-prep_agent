@@ -7,8 +7,8 @@ import json
 
 import streamlit as st
 
-from phase_2.src.chat_orchestrator import ChatOrchestrator, ConversationState
-from phase_2.src.response_formatter import format_error_message
+from src.chat_orchestrator import ChatOrchestrator, ConversationState
+from src.response_formatter import format_error_message
 
 
 def _init() -> tuple[ChatOrchestrator, ConversationState]:
