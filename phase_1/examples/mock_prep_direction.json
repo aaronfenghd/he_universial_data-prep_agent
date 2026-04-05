@@ -2,11 +2,11 @@
   "source_file": "mock_rationale.docx",
   "generated_at_utc": "2026-01-01T00:00:00+00:00",
   "best_effort": true,
-  "full_text": "Prioritize utility values for progressed disease in advanced/metastatic NSCLC. Favor studies relevant to US setting and later lines of therapy. Capture rationale and limitations for each selected publication.",
+  "full_text": "Prioritize 2L+ drug acquisition cost values for progressed disease in advanced/metastatic NSCLC. Favor studies relevant to US setting and later lines of therapy. Capture rationale and limitations for each selected publication.",
   "sections": [
     {
       "heading": "Objective",
-      "content": "Find health state utility values suitable for HE model parameterization in advanced NSCLC."
+      "content": "Find 2L+ drug acquisition cost values suitable for HE model parameterization in advanced NSCLC."
     },
     {
       "heading": "Selection Notes",
