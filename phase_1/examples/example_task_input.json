@@ -1,0 +1,14 @@
+{
+  "parameter_question": "Find utility values for progressed disease in advanced NSCLC",
+  "population": "Adults with advanced or metastatic NSCLC",
+  "line_of_therapy": "Second line and later",
+  "geography": "United States",
+  "preferred_study_type": "Utility studies, HTA submissions, cost-effectiveness analyses, or observational studies reporting health state utilities",
+  "exclusion_rules": [
+    "Exclude small cell lung cancer",
+    "Exclude non-English publications",
+    "Exclude pediatric populations",
+    "Exclude studies without progressed-disease utility estimates"
+  ],
+  "notes": "Prioritize publications most suitable for HE model input selection"
+}
